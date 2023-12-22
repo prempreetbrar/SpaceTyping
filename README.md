@@ -105,8 +105,9 @@ If you right clicked in the bottom right of the processing panel, a rocket would
 3. When prompted, keep "SpaceTyping-main" as the sketch folder:
    
 <img width="695" alt="Keep" src="https://github.com/prempreetbrar/SpaceTyping/assets/89614923/7e2aef0a-daca-4c2c-8be0-b75c6f406b40">
-&nbsp;
 
+&nbsp;
+&nbsp;
 4. Click the play button on the processing panel to start the sketch:
    
 ![Play](https://github.com/prempreetbrar/SpaceTyping/assets/89614923/b0e8f9ff-e81d-4fab-8d21-c57a8ae47c39)
