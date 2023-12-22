@@ -2,7 +2,7 @@
 
 An artistic visualization program that maps keyboard and mouse input to constellations in space. Works only on larger screen sizes (ie.
 not mobile or tablet). The pressed key is mapped to a shape drawn on the corresponding position of the screen (ie. 1 is mapped to the 
-top left corner of the screen, spacebar to the bottom of the screen, etc). Watch a quick gif of me interacting with it below:
+top left corner of the screen, spacebar to the bottom of the screen, etc). Watch quick gif(s) of me interacting with it below:
 
 ## Slight Offset Applied When Key Pressed:
 ![](gifs/Offset.gif)
@@ -81,13 +81,26 @@ If you right clicked in the bottom right of the processing panel, a rocket would
 
 ## Features
 
-- Performance: 
+- Allows mapping of 7 types of keyboard input (position of pressed key, type of pressed key, duration of keystrokes, shift versus no-shift keystrokes, connection of letters in a word using whitespace characters, backspace keystrokes, speed at which word was typed), and 2 types of mouse input (speed of mouse cursor movement, left versus right click)
 &nbsp;
 
 ## Limitations/Design Choices
 
--
+- I should have made greater use of OOP in my processing code; my programming is mainly functional, but OOP would have cleaned up the code/made it more readable
+- I make extensive use of declaring variables as final if I am using them only once (even if they are not typical "constants"); this is because I wanted to minimize errors related to accidentally writing these variables that are meant to be used only once. This is not standard Java convention.
+
 &nbsp;
 
-### If you want to start up the project on your local machine:
+## If you want to start up the project on your local machine:
+1. Download the code as a ZIP:
+![Download](https://github.com/prempreetbrar/SpaceTyping/assets/89614923/b299c931-f7bb-49a3-8621-96045a01d178)
+2. Open the .pde file:
+![Open](https://github.com/prempreetbrar/SpaceTyping/assets/89614923/1c6bad30-b4d7-4836-ae1e-f6c2f13fb8fa)
+3. When prompted, keep "SpaceTyping-main" as the sketch folder:
+<img width="695" alt="Keep" src="https://github.com/prempreetbrar/SpaceTyping/assets/89614923/7e2aef0a-daca-4c2c-8be0-b75c6f406b40">!
+4. Click the play button on the processing panel to start the sketch:
+![Play](https://github.com/prempreetbrar/SpaceTyping/assets/89614923/b0e8f9ff-e81d-4fab-8d21-c57a8ae47c39)
+5. Begin entering mouse and keyboard input to see your constellations!
+![Program](https://github.com/prempreetbrar/SpaceTyping/assets/89614923/21c14a5f-e4c9-4813-b96c-588886cb6aff)
+
 
