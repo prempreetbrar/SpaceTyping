@@ -94,13 +94,21 @@ If you right clicked in the bottom right of the processing panel, a rocket would
 ## If you want to start up the project on your local machine:
 1. Download the code as a ZIP:
 ![Download](https://github.com/prempreetbrar/SpaceTyping/assets/89614923/b299c931-f7bb-49a3-8621-96045a01d178)
+&nbsp;
+
 2. Open the .pde file:
 ![Open](https://github.com/prempreetbrar/SpaceTyping/assets/89614923/1c6bad30-b4d7-4836-ae1e-f6c2f13fb8fa)
+&nbsp;
+
 3. When prompted, keep "SpaceTyping-main" as the sketch folder:
 <img width="695" alt="Keep" src="https://github.com/prempreetbrar/SpaceTyping/assets/89614923/7e2aef0a-daca-4c2c-8be0-b75c6f406b40">!
+&nbsp;
+
 4. Click the play button on the processing panel to start the sketch:
 ![Play](https://github.com/prempreetbrar/SpaceTyping/assets/89614923/b0e8f9ff-e81d-4fab-8d21-c57a8ae47c39)
+&nbsp;
+
 5. Begin entering mouse and keyboard input to see your constellations!
 ![Program](https://github.com/prempreetbrar/SpaceTyping/assets/89614923/21c14a5f-e4c9-4813-b96c-588886cb6aff)
-
+&nbsp;
 
